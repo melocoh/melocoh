@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 My name is Melody Oh and I'm currently in my final semester of CST at BCIT, specialized in the Client Server option. 
-
-I enjoy developing web and native client applications and learning about new libraries and frameworks. I'm also interested in front-end UI / UX design.
+I enjoy developing web and native client applications and learning about new libraries and frameworks.
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=melocoh&count_private=true&theme=dark&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=melocoh&langs_count=5&theme=dark)]()
